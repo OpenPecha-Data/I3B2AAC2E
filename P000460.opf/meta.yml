@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN641
   title: དཔལ་སྤུངས་ཆོས་སྤྱོད།
-  volume: ''
+  volume:
+    a7f7f9199f284baa8336ad2a7d828c2e:
+      image_group_id: I3CN643
+      title: Volume 1 of dpal spungs chos spyod/
+      volume_number: 1
+      total_pages: 588
   author: ''
+ebook_metadata:
+  title: དཔལ་སྤུངས་ཆོས་སྤྱོད།
+  author: ''
+  sku: P000460
+  cover: cover.jpg
+  layers:
+  - pagination
